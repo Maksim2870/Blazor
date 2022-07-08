@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather.Server", "Server\Weather.Server.csproj", "{FF1B9E64-52F6-4A2B-BEBB-96E8A1C849B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather.Server", "Server\Weather.Server.csproj", "{FF1B9E64-52F6-4A2B-BEBB-96E8A1C849B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather.Client", "Client\Weather.Client.csproj", "{211A933B-BFA8-4FC1-AB81-71259C5A64C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather.Client", "Client\Weather.Client.csproj", "{211A933B-BFA8-4FC1-AB81-71259C5A64C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather.Shared", "Shared\Weather.Shared.csproj", "{D5193729-3106-4348-8DF0-91D8FDBC0769}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather.Shared", "Shared\Weather.Shared.csproj", "{D5193729-3106-4348-8DF0-91D8FDBC0769}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
